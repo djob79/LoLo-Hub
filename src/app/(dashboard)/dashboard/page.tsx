@@ -44,7 +44,7 @@ export default async function Page() {
             </header>
             <div className="flex flex-1 flex-col gap-4 p-4 pt-0">
                 <GreetingDashText name={session.user.name ?? "unknown"} />
-                <p>Welcome to mspaint web dashboard!</p>
+                <p>Welcome to Vanityﾒ𝟶 web!</p>
             </div>
         </>
     );
