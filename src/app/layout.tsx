@@ -5,7 +5,7 @@ import { ThemeProvider } from "@/components/theme-provider";
 import { Toaster } from "@/components/ui/sonner"
 import { Analytics } from "@vercel/analytics/react"
 
-const description = "mspaint is the best free roblox script hub supporting games such as doors, 3008, room & doors, pressure, fisch and build a boat for treasure";
+const description = "Vanityﾒ𝟶 is the best free roblox script hub supporting games such as Many games, list in our Discord server";
 
 const inter = Inter({ subsets: ["latin"] });
 export const metadata: Metadata = {
@@ -19,16 +19,16 @@ export const metadata: Metadata = {
 		images: 'https://www.mspaint.cc/icon.png',
 	},
   keywords: [
-    "mspaint",
+    "Vanityﾒ𝟶",
     "roblox",
     "script",
     "doors",
     "3008",
     "room & doors",
-    "r&d",
+    "King Legacy",
     "pressure",
     "fisch",
-    "babft",
+    "blade ball",
   ],
 };
 
