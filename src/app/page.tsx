@@ -44,7 +44,7 @@ export default function Home() {
           title={
             <div className="flex flex-col items-center justify-center">
               <BlurFade delay={0.2 + (1 * 0.05)}>
-                <Link href={"https://discord.gg/mspaint"} target="_blank">
+                <Link href={"https://discord.gg/qqsYkSDnG7"} target="_blank">
                   <div className="flex mb-2">
                     <div
                       className={cn(
@@ -52,7 +52,7 @@ export default function Home() {
                       )}
                     >
                       <AnimatedShinyText className="inline-flex items-center justify-center px-4 py-1 transition ease-out hover:text-neutral-600 hover:duration-300 hover:dark:text-neutral-400">
-                        <DiscordLogoIcon className="mr-2" /><span>join mspaint discord</span>
+                        <DiscordLogoIcon className="mr-2" /><span>join Vanityﾒ𝟶 discord</span>
                         <ArrowRightIcon className="ml-1 size-3 transition-transform duration-300 ease-in-out group-hover:translate-x-0.5" />
                       </AnimatedShinyText>
                     </div>
@@ -62,7 +62,7 @@ export default function Home() {
 
               <BlurFade delay={0.2 + (2 * 0.05)}>
                 <h1 className="text-6xl font-bold text-center">
-                  mspaint
+                  Vanityﾒ𝟶
                 </h1>
               </BlurFade>
               <BlurFade delay={0.2 + (3 * 0.05)}>
@@ -70,12 +70,12 @@ export default function Home() {
                   <span className="font-bold">the best</span>{" "}
                   <WordRotate
                     words={[
-                      "doors",
-                      "3008",
-                      "R&D",
+                      "Blade Ball",
+                      "Dandy's World",
+                      "Blade Ball Dungeon",
                       "Pressure",
-                      "Fisch",
-                      "BABFT",
+                      "Anime Ball",
+                      "TSB",
                     ]}
                   />{" "} script
                 </div>
@@ -121,12 +121,6 @@ export default function Home() {
                     <span className="text-lg font-bold max-md:text-3xl">Synapse Z</span>
                   </BlurFade>
                 </Link>
-                <Link href={"https://www.abyssdigital.xyz/"} target="_blank">
-                  <BlurFade delay={0.2 + (5 * 0.05)} className="flex flex-row items-center justify-center gap-1 max-md:gap-3"  inView>
-                    <Image alt="macsploit" src="/executors/macsploit.png" width={30} height={30} className="max-md:w-14 max-md:h-14" />
-                    <span className="text-lg font-bold max-md:text-3xl">Macsploit</span>
-                  </BlurFade>
-                </Link>
                 <Link href={"https://seliware.com/"} target="_blank">
                   <BlurFade delay={0.2 + (6 * 0.05)} className="flex flex-row items-center justify-center gap-1 max-md:gap-3"  inView>
                     <Image alt="codex" src="/executors/seliware.png" width={30} height={30} className="max-md:w-20 max-md:h-12" />
@@ -149,10 +143,10 @@ export default function Home() {
         <BlurFade delay={0.2 + (1 * 0.05)} className="mb-5" inView>
           <h1 className="text-3xl font-bold text-center flex flex-col">
             <span>Used by <span className="font-bold">over{" "}
-              <NumberTicker value={7200} />
+              <NumberTicker value={1,000} />
               + people
             </span></span>
-            <span className="text-muted-foreground text-lg">And even by <span className="font-bold text-white">Kardin Hong</span></span>
+            <span className="text-muted-foreground text-lg">And even by <span className="font-bold text-white">ADMINUS</span></span>
           </h1>
         </BlurFade>
         <BlurFade delay={0.2 + (2 * 0.05)} inView>
@@ -173,7 +167,7 @@ export default function Home() {
 
         <BlurFade delay={0.2 + (1 * 0.05)} inView>
           <h1 className="text-2xl mt-[2.5rem] text-center">
-            Here&apos;s what people say about <span className="font-bold">mspaint</span>
+            Here&apos;s what people say about <span className="font-bold">Vanityﾒ𝟶</span>
           </h1>
         </BlurFade>
 
@@ -191,21 +185,21 @@ export default function Home() {
         <BlurFade delay={0.2 + (4 * 0.05)} inView>
           <Accordion type="single" collapsible className="max-w-[1000px] w-[50vw] max-md:w-[75vw]">
             <AccordionItem value="item-1">
-              <AccordionTrigger>How do i do the keysystem?</AccordionTrigger>
+              <AccordionTrigger>Where is the key?</AccordionTrigger>
               <AccordionContent>
-                Tutorial on how to use the Key System is here: <Link href={"https://docs.upio.dev/mspaint/key-system"} target="_blank" className="text-blue-300 underline">https://docs.upio.dev/mspaint/key-system</Link>.
+                Key System is here: <Link href={"https://linkvertise.com/1196462/vanityxo-key?o=sharing"} target="_blank" className="text-blue-300 underline">https://linkvertise.com/1196462/vanityxo-key?o=sharing</Link>.
               </AccordionContent>
             </AccordionItem>
             <AccordionItem value="item-2">
               <AccordionTrigger>Where can I report bugs and suggest features?</AccordionTrigger>
               <AccordionContent>
-                You can report bugs and suggest features on the Discord server or in the GitHub repository.
+                You can report bugs and suggest features on the Discord server.
               </AccordionContent>
             </AccordionItem>
             <AccordionItem value="item-3">
               <AccordionTrigger>Does it work on mobile?</AccordionTrigger>
               <AccordionContent>
-                Yes. mspaint works on mobile.
+                Yes. Vanityﾒ𝟶 works on mobile.
               </AccordionContent>
             </AccordionItem>
             <AccordionItem value="item-4">
@@ -217,13 +211,13 @@ export default function Home() {
             <AccordionItem value="item-5">
               <AccordionTrigger>I can&apos;t close the GUI?</AccordionTrigger>
               <AccordionContent>
-                Close out of the GUI by pressing the shift on the right side of your keyboard.
+                Close out of the GUI by pressing the Leftcontrol on the Left side of your keyboard.
               </AccordionContent>
             </AccordionItem>
             <AccordionItem value="item-6">
               <AccordionTrigger>What games are supported?</AccordionTrigger>
               <AccordionContent>
-                As of right now, DOORS, 3008, Rooms & Doors, Pressure, Fisch and BABFT are supported.
+                Find the list in our Discord server.
               </AccordionContent>
             </AccordionItem>
           </Accordion>
@@ -235,14 +229,14 @@ export default function Home() {
           <div className="px-2 py-2 flex flex-row items-center gap-2">
             <Image alt="mspaint" src="/icon.png" width={25} height={25} />
             <div>
-              <p className="text-xs text-left">mspaint</p>
-              <p className="text-muted-foreground text-xs">Site made by upio</p>
+              <p className="text-xs text-left">Vanityﾒ𝟶</p>
+              <p className="text-muted-foreground text-xs">Site made by 7soc_</p>
             </div>
           </div>
           <p className="text-muted-foreground text-xs px-2 py-2 text-right max-md:text-center max-md:mt-5">
             This software is not affiliated, associated, authorized, endorsed by, or<br />
             in any way officially connected with Roblox or Microsoft
-            or any of its subsidiaries or its affiliates.</p>
+            or any of its subsidiaries or its affiliates. I swear!</p>
         </div>
       </div>
     </main>
