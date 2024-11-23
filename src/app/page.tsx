@@ -52,7 +52,7 @@ export default function Home() {
                       )}
                     >
                       <AnimatedShinyText className="inline-flex items-center justify-center px-4 py-1 transition ease-out hover:text-neutral-600 hover:duration-300 hover:dark:text-neutral-400">
-                        <DiscordLogoIcon className="mr-2" /><span>join mspaint discord</span>
+                        <DiscordLogoIcon className="mr-2" /><span>join Vanityﾒ𝟶 discord</span>
                         <ArrowRightIcon className="ml-1 size-3 transition-transform duration-300 ease-in-out group-hover:translate-x-0.5" />
                       </AnimatedShinyText>
                     </div>
@@ -62,7 +62,7 @@ export default function Home() {
 
               <BlurFade delay={0.2 + (2 * 0.05)}>
                 <h1 className="text-6xl font-bold text-center">
-                  mspaint
+                  Vanityﾒ𝟶
                 </h1>
               </BlurFade>
               <BlurFade delay={0.2 + (3 * 0.05)}>
