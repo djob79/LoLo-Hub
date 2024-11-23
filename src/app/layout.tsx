@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   description: description,
   openGraph: {
     description: description,
-		images: 'https://www.mspaint.cc/icon.png',
+		images: 'https://ibb.co/G7TPMxC',
 	},
   keywords: [
     "Vanityﾒ𝟶",
