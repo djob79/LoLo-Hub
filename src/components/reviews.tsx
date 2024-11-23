@@ -6,98 +6,14 @@ const reviews = [
   {
     name: "Onyx",
     username: "@onyxchaser",
-    body: 'The menu is very cool and very cool and has many good functions and is amazing for "speedrunning" 5 stars real',
+    body: 'Nice menu + good scripts',
     img: "/pfps/onyx.png",
   },
   {
     name: "lolcat",
     username: "@lolcat_3877",
-    body: "I couldn’t figure out how to paint, but the script is good",
+    body: "Needs More scripts and features but other then that good hub!",
     img: "/pfps/lolcat.png",
-  },
-  {
-    name: "Keller",
-    username: "@amonicee",
-    body: "10/10 mspaint is a good working doors croc gaming chair deivid and upio must have worked hard on it getting most of the things to work well",
-    img: "/pfps/keller.png",
-  },
-  {
-    name: "BOB",
-    username: "@craftomancer",
-    body: "swag at its finest",
-    img: "/pfps/craft.png",
-  },
-  {
-    name: "DaXxed [GD]",
-    username: "@daxxedgd",
-    body: "Ms paint is honestly something else, truly the peak of Roblox doors scripting.",
-    img: "/pfps/daxxedgd.png",
-  },
-  {
-    name: "MelonTighDe",
-    username: "@otigh",
-    body: "Mspaint is very good but sometimes i lag back 😭 cuz of the speed bypass but non the less all good 🙂",
-    img: "/pfps/otigh.png",
-  },
-  {
-    name: "Wacky",
-    username: "@zipzap_yt",
-    body: "mspaint is one of the best doors scripts out there besides lolhax, imo mspaint needs is a better notification system tho",
-    img: "/pfps/wacky.png",
-  },
-  {
-    name: "Marshel",
-    username: "@marshel.",
-    body: "zib zib zib zib zib zib zib. Zib zib zib!✅👍",
-    img: "/pfps/marshel.png",
-  },
-  {
-    name: "Bacalhauz",
-    username: "@bacalhauz",
-    body: "Amazing work. You couldn't ask for more than that.",
-    img: "/pfps/bacal.gif",
-  },
-  {
-    name: "Potoo",
-    username: "@PotooDagger",
-    body: "If aliens were to invade earth, it would be for mspaint.",
-    img: "/pfps/smartindividual.png",
-  },
-  {
-    name: "TotallyNotChrono",
-    username: "@notchron",
-    body: "i have no idea why its called mspaint but its cool",
-    img: "/pfps/notchron.png",
-  },
-  {
-    name: "vee",
-    username: "@4ibu",
-    body: "mspaint automatically make you cooler 😎 use now!",
-    img: "/pfps/vee.png",
-  },
-  {
-    name: "goofiest goober",
-    username: "@smoothcriminal.heehee",
-    body: "One of the best DOORS scripts of all time. Good features, good anticheat, good everything.",
-    img: "/pfps/smoothcriminal.gif",
-  },
-  {
-    name: "☆★𝕯𝖔𝖗𝖎𝖙𝖔★☆",
-    username: "@happydorito92",
-    body: "Mspaint is a great way to paint and now I have good crocs and gaming chairs because of Mspaint",
-    img: "/pfps/happydorito92.png",
-  },
-  {
-    name: "ᨓ 🐇🌸 ៹ sumi ૮₍𖦹ﻌ𖦹₎ა",
-    username: "@sumi8a",
-    body: "now i dont get heart attacks by rush, 10/10",
-    img: "/pfps/sumi8a.png",
-  },
-  {
-    name: "RegularVynixu",
-    username: "@.vynixu",
-    body: "mspaint is really good, I just want my name on the site 5/5 ⭐",
-    img: "/pfps/vynixu.png",
   }
 ];
 
