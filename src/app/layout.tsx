@@ -10,8 +10,8 @@ const description = "Vanityﾒ𝟶 is the best free roblox script hub supporting
 const inter = Inter({ subsets: ["latin"] });
 export const metadata: Metadata = {
   title: {
-    default: "mspaint",
-    template: "%s | mspaint",
+    default: "Vanityﾒ𝟶",
+    template: "%s | Vanityﾒ𝟶",
   },
   description: description,
   openGraph: {
