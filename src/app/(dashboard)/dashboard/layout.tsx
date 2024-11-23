@@ -22,7 +22,7 @@ export const metadata: Metadata = {
   },
   openGraph: {
     description: description,
-		images: 'https://www.mspaint.cc/icon.png',
+		images: 'https://imgur.com/a/Y97XcK2',
 	},
   keywords: [
     "Vanityﾒ𝟶",
