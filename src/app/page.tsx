@@ -144,10 +144,10 @@ export default function Home() {
         <BlurFade delay={0.2 + (1 * 0.05)} className="mb-5" inView>
           <h1 className="text-3xl font-bold text-center flex flex-col">
             <span>Used by <span className="font-bold">over{" "}
-              <NumberTicker value={7200} />
+              <NumberTicker value={1000} />
               + people
             </span></span>
-            <span className="text-muted-foreground text-lg">And even by <span className="font-bold text-white">Kardin Hong</span></span>
+            <span className="text-muted-foreground text-lg">And even by <span className="font-bold text-white">ADMINUS</span></span>
           </h1>
         </BlurFade>
         <BlurFade delay={0.2 + (2 * 0.05)} inView>
@@ -168,7 +168,7 @@ export default function Home() {
 
         <BlurFade delay={0.2 + (1 * 0.05)} inView>
           <h1 className="text-2xl mt-[2.5rem] text-center">
-            Here&apos;s what people say about <span className="font-bold">mspaint</span>
+            Here&apos;s what people say about <span className="font-bold">Vanityﾒ𝟶</span>
           </h1>
         </BlurFade>
 
@@ -180,7 +180,7 @@ export default function Home() {
           <h1 className="text-2xl font-bold  mt-[2.5rem] text-center">
             FAQ
           </h1>
-          <p className="text-muted-foreground">The full FAQ is in Discord</p>
+          <p className="text-muted-foreground">Any issues? Join the Discord</p>
         </BlurFade>
 
         <BlurFade delay={0.2 + (4 * 0.05)} inView>
