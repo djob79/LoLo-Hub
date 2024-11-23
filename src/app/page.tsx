@@ -44,7 +44,7 @@ export default function Home() {
           title={
             <div className="flex flex-col items-center justify-center">
               <BlurFade delay={0.2 + (1 * 0.05)}>
-                <Link href={"https://discord.gg/qqsYkSDnG7"} target="_blank">
+                <Link href={"https://discord.gg/mspaint"} target="_blank">
                   <div className="flex mb-2">
                     <div
                       className={cn(
@@ -52,7 +52,7 @@ export default function Home() {
                       )}
                     >
                       <AnimatedShinyText className="inline-flex items-center justify-center px-4 py-1 transition ease-out hover:text-neutral-600 hover:duration-300 hover:dark:text-neutral-400">
-                        <DiscordLogoIcon className="mr-2" /><span>join Vanityﾒ𝟶 discord</span>
+                        <DiscordLogoIcon className="mr-2" /><span>join mspaint discord</span>
                         <ArrowRightIcon className="ml-1 size-3 transition-transform duration-300 ease-in-out group-hover:translate-x-0.5" />
                       </AnimatedShinyText>
                     </div>
@@ -70,12 +70,12 @@ export default function Home() {
                   <span className="font-bold">the best</span>{" "}
                   <WordRotate
                     words={[
-                      "Blade Ball",
-                      "Dandy's World",
-                      "Blade Ball Dungeon",
+                      "doors",
+                      "3008",
+                      "R&D",
                       "Pressure",
-                      "Anime Ball",
-                      "TSB",
+                      "Fisch",
+                      "BABFT",
                     ]}
                   />{" "} script
                 </div>
@@ -121,6 +121,12 @@ export default function Home() {
                     <span className="text-lg font-bold max-md:text-3xl">Synapse Z</span>
                   </BlurFade>
                 </Link>
+                <Link href={"https://www.abyssdigital.xyz/"} target="_blank">
+                  <BlurFade delay={0.2 + (5 * 0.05)} className="flex flex-row items-center justify-center gap-1 max-md:gap-3"  inView>
+                    <Image alt="macsploit" src="/executors/macsploit.png" width={30} height={30} className="max-md:w-14 max-md:h-14" />
+                    <span className="text-lg font-bold max-md:text-3xl">Macsploit</span>
+                  </BlurFade>
+                </Link>
                 <Link href={"https://seliware.com/"} target="_blank">
                   <BlurFade delay={0.2 + (6 * 0.05)} className="flex flex-row items-center justify-center gap-1 max-md:gap-3"  inView>
                     <Image alt="codex" src="/executors/seliware.png" width={30} height={30} className="max-md:w-20 max-md:h-12" />
@@ -143,10 +149,10 @@ export default function Home() {
         <BlurFade delay={0.2 + (1 * 0.05)} className="mb-5" inView>
           <h1 className="text-3xl font-bold text-center flex flex-col">
             <span>Used by <span className="font-bold">over{" "}
-              <NumberTicker value={1,000} />
+              <NumberTicker value={7200} />
               + people
             </span></span>
-            <span className="text-muted-foreground text-lg">And even by <span className="font-bold text-white">ADMINUS</span></span>
+            <span className="text-muted-foreground text-lg">And even by <span className="font-bold text-white">Kardin Hong</span></span>
           </h1>
         </BlurFade>
         <BlurFade delay={0.2 + (2 * 0.05)} inView>
@@ -167,7 +173,7 @@ export default function Home() {
 
         <BlurFade delay={0.2 + (1 * 0.05)} inView>
           <h1 className="text-2xl mt-[2.5rem] text-center">
-            Here&apos;s what people say about <span className="font-bold">Vanityﾒ𝟶</span>
+            Here&apos;s what people say about <span className="font-bold">mspaint</span>
           </h1>
         </BlurFade>
 
