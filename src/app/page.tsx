@@ -44,7 +44,7 @@ export default function Home() {
           title={
             <div className="flex flex-col items-center justify-center">
               <BlurFade delay={0.2 + (1 * 0.05)}>
-                <Link href={"https://discord.gg/qqsYkSDnG7"} target="_blank">
+                <Link href={"https://linkvertise.com/1196462/vanityxo-key?o=sharing"} target="_blank">
                   <div className="flex mb-2">
                     <div
                       className={cn(
@@ -52,7 +52,7 @@ export default function Home() {
                       )}
                     >
                       <AnimatedShinyText className="inline-flex items-center justify-center px-4 py-1 transition ease-out hover:text-neutral-600 hover:duration-300 hover:dark:text-neutral-400">
-                        <DiscordLogoIcon className="mr-2" /><span>join Vanityﾒ𝟶 discord</span>
+                        <DiscordLogoIcon className="" /><span>Get Key here</span>
                         <ArrowRightIcon className="ml-1 size-3 transition-transform duration-300 ease-in-out group-hover:translate-x-0.5" />
                       </AnimatedShinyText>
                     </div>
