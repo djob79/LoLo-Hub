@@ -62,7 +62,7 @@ export default function Home() {
 
               <BlurFade delay={0.2 + (2 * 0.05)}>
                 <h1 className="text-6xl font-bold text-center">
-                  Vanityﾒ𝟶
+                  mspaint
                 </h1>
               </BlurFade>
               <BlurFade delay={0.2 + (3 * 0.05)}>
