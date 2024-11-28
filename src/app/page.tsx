@@ -84,7 +84,7 @@ export default function Home() {
               
               <BlurFade delay={0.2 + (4 * 0.05)}>
                 <div className="flex flex-row items-center justify-center mt-2 gap-2">
-                  <Input className="overflow-hidden text-ellipsis min-w-[300px]" readOnly value={'loadstring(game:HttpGet("https://pastebin.com/raw/xByH2A5f"))()"))()'}/>
+                  <Input className="overflow-hidden text-ellipsis min-w-[300px]" readOnly value={'loadstring(game:HttpGet("https://pastebin.com/raw/CvGHf12a"))()"))()'}/>
                   <CopyButton text={'loadstring(game:HttpGet("https://pastebin.com/raw/CvGHf12a"))()'} />
                   <Link href={"https://discord.gg/qqsYkSDnG7"} target="_blank">
                     <Button size={"icon"} variant={"outline"} className="px-2">
