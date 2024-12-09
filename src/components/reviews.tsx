@@ -4,16 +4,16 @@ import Image from "next/image";
 
 const reviews = [
   {
-    name: "Onyx",
-    username: "@onyxchaser",
-    body: 'Nice menu + good scripts',
+    name: "Nobody",
+    username: "Nobody",
+    body: '...',
     img: "/pfps/onyx.png",
   },
   {
-    name: "lolcat",
-    username: "@lolcat_3877",
-    body: "Needs More scripts and features but other then that good hub!",
-    img: "/pfps/lolcat.png",
+    name: "Nobody",
+    username: "Nobody",
+    body: '...',
+    img: "/pfps/onyx.png",
   }
 ];
 
